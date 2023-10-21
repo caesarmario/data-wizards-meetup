@@ -31,5 +31,4 @@
   <a style="position: relative;" href="https://caesarmario.medium.com/"><img style="width: 25px;" src="https://i.imgur.com/JtJ3MlI.png"></a>&emsp;
   <a style="position: relative;" href="https://www.linkedin.com/in/caesarmario"><img style="width: 25px;" src="https://i.imgur.com/BUqaXWR.png"></a>&emsp;
   <a style="position: relative;" href="https://twitter.com/caesarmario_"><img style="width: 25px;" src="https://i.imgur.com/JJLPXQz.png"></a>&emsp;
-  <br><br><img src="https://i.imgur.com/JMFOFL8.png" width=10% alt="WM">
 </p>
