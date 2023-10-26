@@ -1,5 +1,5 @@
 <h1 align="center">📊 Data Wizards - 1st Meetup 📊</h1>
-<p align="center">This repo is dedicated to the <b>first Data Wizard meetup</b>. In this repo, I provide a tutorial on elevating visualizations created using matplotlib and seaborn.</p><br>
+<p align="center">This repo is dedicated to the <b>first Data Wizard meetup</b>.<br>In this repo, I provide a tutorial on elevating visualizations created using matplotlib and seaborn.</p><br>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://www.github.com/caesarmario">
@@ -25,13 +25,13 @@
 ## 📝 Details
 - **Font**: <a href="https://fonts.google.com/specimen/Lexend" target="_blank">Lexend</a>
 - **Color palette**:
-    - #DEE2E6
-    - #1D3557
+    - <a href="https://coolors.co/dee2e6" target="_blank">#DEE2E6</a>
+    - <a href="https://coolors.co/1d3557" target="_blank">#1D3557</a>
 - **Libraries**:
-    - pandas
-    - seaborn
-    - matplotlib
-    - highlight-text
+    - <a href="https://pandas.pydata.org/" target="_blank">pandas</a>
+    - <a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>
+    - <a href="https://matplotlib.org/" target="_blank">matplotlib</a>
+    - <a href="https://pypi.org/project/highlight-text/" target="_blank">highlight-text</a>
 
 ## 🙌 Support Me
 <p align="center">
