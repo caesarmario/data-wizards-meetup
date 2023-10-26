@@ -1,5 +1,5 @@
 <h1 align="center">📊 Data Wizards - 1st Meetup 📊</h1>
-<p align="center">This repo is dedicated to the <b>first Data Wizard meetup</b>.</p><br>
+<p align="center">This repo is dedicated to the <b>first Data Wizard meetup</b>. In this repo, I provide a tutorial on elevating visualizations created using matplotlib and seaborn.</p><br>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://www.github.com/caesarmario">
@@ -14,12 +14,24 @@
 ## 📃 Table of Contents
   - [Before Improvement](#-before-improvement)
   - [After Improvement](#-after-improvement)
+  - [Details](#-details)
 
 ## 🌑 Before Improvement
 <p align="center"><img src="https://raw.githubusercontent.com/caesarmario/data-wizards-meetup/main/data_wizard_before.png?token=GHSAT0AAAAAACDPD3ONKGX6QOFEPIFB5KSOZJTKCFA" width="70%">
 
 ## 🌕 After Improvement
 <p align="center"><img src="https://raw.githubusercontent.com/caesarmario/data-wizards-meetup/main/data_wizard_after.png?token=GHSAT0AAAAAACDPD3OMKQ5S5CIK66OKRDFUZJTKBYA" width="70%">
+
+## 📝 Details
+- **Font**: <a href="https://fonts.google.com/specimen/Lexend" target="_blank">Lexend</a>
+- **Color palette**:
+    - #DEE2E6
+    - #1D3557
+- **Libraries**:
+    - pandas
+    - seaborn
+    - matplotlib
+    - highlight-text
 
 ## 🙌 Support Me
 <p align="center">
